@@ -1,0 +1,12 @@
+*.lst
+*.smap*
+*.sym
+*.xlsx
+*.zip
+*.imv
+build.sh
+desktop.ini
+dump.cpu
+dump.mem
+ecs.bin
+ivoice.bin
