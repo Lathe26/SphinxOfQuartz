@@ -5,7 +5,7 @@ Specifically, Sphinx of Quartz program has the following purposes:
 1.  Play the sound effect that is hidden and unused in the Kiosk Multiplexer's ROM (i.e. dead code).
 2.  Display all 26 characters of the Kiosk Multiplexer's unique font used when selecting different game cartridges.
 
-To see a video demonstration of the Sphinx of Quartz program and the resulting research for the Intellivision Kiosk Multiplexer, see ![https://www.youtube.com/watch?v=3vMPc39v13g](https://www.youtube.com/watch?v=3vMPc39v13g)
+To see a video demonstration of the Sphinx of Quartz program and the resulting research for the Intellivision Kiosk Multiplexer, see [https://www.youtube.com/watch?v=3vMPc39v13g](https://www.youtube.com/watch?v=3vMPc39v13g)
 
 Image of an Intellivision Kiosk Multiplexer:
 ![image of an Intellivision Kiosk Multiplexer](/Intellivision%20Kiosk%20Multiplexer.jpg)
@@ -55,7 +55,7 @@ $1000 - $17FF = $7000
 
 
 # Build instructions
-Sphinx of Quartz has been successfully built with the jzintv-20181225-win32 release of the jzIntv emulator.  The jzIntv emulator include a number of development tools, including an assembler.  Newer versions of the jzIntv development tools should remain compatible with SphinxOfQuartz.asm.  jzIntv can be downloaded from ![http://spatula-city.org/~im14u2c/intv/](http://spatula-city.org/~im14u2c/intv/). 
+Sphinx of Quartz has been successfully built with the jzintv-20181225-win32 release of the jzIntv emulator.  The jzIntv emulator include a number of development tools, including an assembler.  Newer versions of the jzIntv development tools should remain compatible with SphinxOfQuartz.asm.  jzIntv can be downloaded from [http://spatula-city.org/~im14u2c/intv/](http://spatula-city.org/~im14u2c/intv/). 
 
 SphinxOfQuartz.asm is an assembly file with extensive comments throughout.
 
