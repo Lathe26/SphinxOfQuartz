@@ -1,5 +1,5 @@
 # Overview
-**_Sphinx of Quartz_** is an program for the Mattel Electronics's Intellivision gaming console.  It was created as part of the research into the Mattel Electronics's **_Intellivision Kiosk Multiplexer_**.  The Kiosk Multiplexer is the informal modern name for the electronic hardware inside of demonstration kiosks that allowed customers to try out up 10 games while visiting a store.
+**_Sphinx of Quartz_** is an program for the Mattel Electronics Intellivision gaming console.  It was created as part of the research into the Mattel Electronics **_Intellivision Kiosk Multiplexer_**.  The Kiosk Multiplexer is the informal modern name for the electronic hardware inside of demonstration kiosks that allowed customers to try out up 10 games while visiting a store.
 
 Specifically, Sphinx of Quartz program has the following purposes:
 1.  Play the sound effect that is hidden and unused in the Kiosk Multiplexer's ROM (i.e. dead code).
@@ -46,12 +46,12 @@ $1000 - $17FF = $7000
 ```
 
 # Summary of files
-`SphinxofQuartz.asm` - Assembly code with comments
-`SphinxofQuartz.bin` - Program in \*.bin format.  Use with matching \*.cfg file.
-`SphinxofQuartz.cfg` - The \*.cfg file that matches the \*.bin file.
-`SphinxofQuartz.rom` - Program in \*.rom format.
-`Sphinx of Quartz Judge My Black Vow.gif` - Screenshot of the Kiosk Multiplexer's unique font
-`gram0001.gif` - A graphical memory dump of the Intellivision's video GRAM after Sphinx of Quartz has initialized it.
+- `SphinxofQuartz.asm` - Assembly code with comments
+- `SphinxofQuartz.bin` - Program in \*.bin format.  Use with matching \*.cfg file.
+- `SphinxofQuartz.cfg` - The \*.cfg file that matches the \*.bin file.
+- `SphinxofQuartz.rom` - Program in \*.rom format.
+- `Sphinx of Quartz Judge My Black Vow.gif` - Screenshot of the Kiosk Multiplexer's unique font
+- `gram0001.gif` - A graphical memory dump of the Intellivision's video GRAM after Sphinx of Quartz has initialized it.
 
 
 # Build instructions
